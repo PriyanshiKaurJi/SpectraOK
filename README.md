@@ -1,5 +1,3 @@
-Here's the README.md script:
-
 # Spectra - WhatsApp Multi-Function Bot  
 
 ![Spectra Bot](https://github.com/Mr-Perfect-Spector/Spectra/raw/main/assets/banner.png)  
